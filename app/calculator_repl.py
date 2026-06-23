@@ -1,7 +1,3 @@
-########################
-# Calculator REPL       #
-########################
-
 from decimal import Decimal
 import logging
 
