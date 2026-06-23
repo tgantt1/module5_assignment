@@ -58,3 +58,23 @@
 2026-06-23 12:03:33,372 - INFO - Calculation performed: Addition (2, 3) = 5
 2026-06-23 12:03:33,376 - INFO - History saved successfully to /home/tgantt/class_assignments/module5_assignment/test_history/test_history.csv
 2026-06-23 12:03:33,472 - INFO - History auto-saved
+2026-06-23 12:07:48,578 - INFO - Logging initialized at: /home/tgantt/class_assignments/module5_assignment/test_logs/test_log.log
+2026-06-23 12:07:48,582 - INFO - Loaded 3 calculations from history
+2026-06-23 12:07:48,582 - INFO - Calculator initialized with configuration
+2026-06-23 12:07:48,582 - INFO - Added observer: LoggingObserver
+2026-06-23 12:07:48,582 - INFO - Added observer: AutoSaveObserver
+2026-06-23 12:07:48,588 - INFO - Logging initialized at: /home/tgantt/class_assignments/module5_assignment/test_logs/test_log.log
+2026-06-23 12:07:48,594 - INFO - Loaded 3 calculations from history
+2026-06-23 12:07:48,595 - INFO - Calculator initialized with configuration
+2026-06-23 12:07:48,595 - INFO - Added observer: LoggingObserver
+2026-06-23 12:07:48,595 - INFO - Added observer: AutoSaveObserver
+2026-06-23 12:07:48,605 - INFO - History saved successfully to /home/tgantt/class_assignments/module5_assignment/test_history/test_history.csv
+2026-06-23 12:07:48,611 - INFO - Logging initialized at: /home/tgantt/class_assignments/module5_assignment/test_logs/test_log.log
+2026-06-23 12:07:48,618 - INFO - Loaded 3 calculations from history
+2026-06-23 12:07:48,618 - INFO - Calculator initialized with configuration
+2026-06-23 12:07:48,618 - INFO - Added observer: LoggingObserver
+2026-06-23 12:07:48,619 - INFO - Added observer: AutoSaveObserver
+2026-06-23 12:07:48,620 - INFO - Set operation: Addition
+2026-06-23 12:07:48,620 - INFO - Calculation performed: Addition (2, 3) = 5
+2026-06-23 12:07:48,627 - INFO - History saved successfully to /home/tgantt/class_assignments/module5_assignment/test_history/test_history.csv
+2026-06-23 12:07:48,764 - INFO - History auto-saved
